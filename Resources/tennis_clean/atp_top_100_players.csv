@@ -1002,6 +1002,7 @@ player_id,name_first,name_last,hand,birthdate,country
 105815,Tennys,Sandgren,R,1991-07-22,USA
 105819,Guido,Andreozzi,R,1991-08-05,ARG
 105870,Yannick,Hanfmann,U,1991-11-13,GER
+105882,Stefano,Travaglia,U,1991-12-18,ITA
 105902,James,Duckworth,R,1992-01-21,AUS
 105916,Marton,Fucsovics,R,1992-02-08,HUN
 105932,Nikoloz,Basilashvili,R,1992-02-23,RUS
@@ -1011,6 +1012,7 @@ player_id,name_first,name_last,hand,birthdate,country
 105992,Ryan,Harrison,R,1992-05-07,USA
 106000,Damir,Dzumhur,R,1992-05-20,BIH
 106026,Yuki,Bhambri,R,1992-07-04,IND
+106034,Yasutaka,Uchiyama,R,1992-08-05,JPN
 106043,Diego Sebastian,Schwartzman,R,1992-08-16,ARG
 106044,Nicolas,Kicker,R,1992-08-16,ARG
 106045,Denis,Kudla,R,1992-08-17,USA
@@ -1018,6 +1020,8 @@ player_id,name_first,name_last,hand,birthdate,country
 106065,Marco,Cecchinato,R,1992-09-30,ITA
 106071,Bernard,Tomic,R,1992-10-21,AUS
 106075,Jozef,Kovalik,R,1992-11-04,SVK
+106078,Egor,Gerasimov,R,1992-11-11,BLR
+106099,Salvatore,Caruso,R,1992-12-15,ITA
 106121,Taro,Daniel,R,1993-01-27,JPN
 106148,Roberto,Carballes Baena,R,1993-03-23,ESP
 106186,Jason,Kubler,R,1993-05-19,AUS
@@ -1027,6 +1031,7 @@ player_id,name_first,name_last,hand,birthdate,country
 106228,Juan Ignacio,Londero,R,1993-08-15,ARG
 106233,Dominic,Thiem,R,1993-09-03,AUT
 106293,Kimmer,Coppejans,R,1994-02-07,BEL
+106296,Gregoire,Barrere,R,1994-02-16,FRA
 106298,Lucas,Pouille,R,1994-02-23,FRA
 106329,Thiago,Monteiro,L,1994-05-31,BRA
 106361,Adam,Pavlasek,R,1994-10-08,CZE
@@ -1053,22 +1058,36 @@ player_id,name_first,name_last,hand,birthdate,country
 111575,Karen,Khachanov,R,1996-05-21,RUS
 111577,Jared,Donaldson,R,1996-10-09,USA
 111581,Michael,Mmoh,R,1998-01-10,USA
+111790,Brayden,Schnur,R,1995-07-04,CAN
+111794,Kamil,Majchrzak,R,1996-01-13,POL
 111797,Nicolas,Jarry,R,1995-10-11,CHI
 111815,Cameron,Norrie,L,1995-08-23,GBR
-122330,Alexander,Bublik,R,1997-06-17,RUS
+120424,Yannick,Maden,U,1989-10-28,GER
+122330,Alexander,Bublik,R,1997-06-17,KAZ
 124014,Ernesto,Escobedo,R,1996-07-04,USA
-124187,Reilly,Opelka,U,1997-08-28,USA
+124187,Reilly,Opelka,R,1997-08-28,USA
 125802,Ilya,Ivashka,R,1994-02-24,BLR
 126094,Andrey,Rublev,R,1997-10-20,RUS
+126156,Antonie,Hoang,R,1995-11-04,FRA
 126203,Taylor Harry,Fritz,R,1997-10-28,USA
+126205,Tommy,Paul,R,1997-05-17,USA
 126207,Francis,Tiafoe,R,1998-01-20,USA
-126610,Matteo,Berrettini,U,1996-04-12,ITA
+126610,Matteo,Berrettini,R,1996-04-12,ITA
 126774,Stefanos,Tsitsipas,R,1998-08-12,GRE
+126952,Soon Woo,Kwon,R,1997-12-02,KOR
 128034,Hubert,Hurkacz,R,1997-02-11,POL
 132283,Lorenzo,Sonego,R,1995-05-11,ITA
 133430,Denis,Shapovalov,L,1999-04-15,CAN
-144719,Jaume,Munar,U,1997-05-05,ESP
+134770,Casper,Ruud,R,1998-12-22,NOR
+136440,Dominik,Koepfer,L,1994-04-29,GER
+144707,Mikael,Ymer,R,1998-09-09,SWE
+144719,Jaume,Munar,R,1997-05-05,ESP
 144750,Lloyd George Muirhead,Harris,R,1997-02-24,RSA
+144895,Corentin,Moutet,L,1999-04-19,FRA
 200000,Felix,Auger Aliassime,R,2000-08-08,CAN
 200005,Ugo,Humbert,L,1998-06-26,FRA
+200175,Miomir,Kecmanovic,R,1999-08-31,SRB
+200221,Alejandro,Davidovich Fokina,R,1999-06-05,ESP
 200282,Alex,De Minaur,R,1999-02-17,AUS
+200615,Alexei,Popyrin,R,1999-08-05,AUS
+206173,Jannik,Sinner,U,2001-08-16,ITA

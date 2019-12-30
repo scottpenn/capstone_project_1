@@ -5071,7 +5071,7 @@ player_id,name_first,name_last,hand,birthdate,country
 105077,Albert,Ramos,L,1988-01-17,ESP
 105078,Javier,Ramos,R,1988-01-19,ESP
 105079,Ivan,Sergeyev,R,1988-01-20,UKR
-105080,Miloslav,Mecir,R,1988-01-20,SVK
+105080,Miloslav,Mecir Jr,R,1988-01-20,SVK
 105081,Jean Michel,Durango,R,1988-01-22,ECU
 105082,Marcus,Fugate,R,1988-01-22,USA
 105083,Sebastian,Bader,R,1988-01-22,AUT
@@ -9999,7 +9999,7 @@ player_id,name_first,name_last,hand,birthdate,country
 110012,Assen,Dishkov,R,,BUL
 110013,B,Chaffey,U,,USA
 110014,B,Nagel,U,,USA
-110015,D,Verdieck,U,,USA
+110015,Doug,Verdieck,U,,USA
 110016,Alan,Kendal,U,,AUS
 110017,John,Mcdonald,R,1931-02-04,NZL
 110018,Keith,Diepraam,R,1942-09-11,RSA
@@ -10130,18 +10130,18 @@ player_id,name_first,name_last,hand,birthdate,country
 110143,Bryan,Borea,R,,UNK
 110144,K,Shimamura,R,,JPN
 110145,B,Kronruge,R,,USA
-110146,U,Griffiths,U,,UNK
+110146,Geoff,Griffiths,U,,UNK
 110147,Matthew,Rowe,U,,USA
-110148,U,Lyndon,U,,UNK
+110148,Mark,Lyndon,U,,UNK
 110149,Daniel,Parun,U,,NZL
-110150,U,Mapp,U,,UNK
-110151,U,Ghatage,U,,UNK
+110150,Raymond,Mapp,U,,UNK
+110151,Praful,Ghatage,U,,UNK
 110152,Graham,Thompson,U,,UNK
-110153,U,Tovey,U,,UNK
+110153,Phil,Tovey,U,,UNK
 110154,U,Wallace,R,,UNK
-110155,U,Bond,U,,UNK
+110155,Jeremy,Bond,U,,UNK
 110156,Bill,Austin,U,,USA
-110157,U,Lidgey,U,,UNK
+110157,Robert,Lidgey,U,,UNK
 110158,Lt,Hardeman,R,,NED
 110159,Gaurav,Misra,R,,IND
 110160,Greg,Peebles,R,,USA
@@ -10207,7 +10207,7 @@ player_id,name_first,name_last,hand,birthdate,country
 110220,Ir,Hadiman,R,,INA
 110221,B,Dimalanta,U,,UNK
 110222,Iman,Sutarli,U,,UNK
-110223,A,Simangunsong,U,,UNK
+110223,Albert,Simangunsong,U,,UNK
 110224,Robert,Bedard,U,,CAN
 110225,Bikram,Singh Saluja,R,,IND
 110226,Tau,Luu,U,,HKG
@@ -10786,7 +10786,7 @@ player_id,name_first,name_last,hand,birthdate,country
 110799,Colon,Nunez,U,1955-04-08,ECU
 110800,Fabian,Barriola,U,1950-02-21,URU
 110801,Gustavo,Stapf,U,1951-10-08,URU
-110802,Jason,Van Kerckhoven,U,,ARG
+110802,Julio,Van Kerckhoven,U,,ARG
 110803,Mario,Laborde,U,1955-10-18,URU
 110804,Jon Erik,Ross,U,1943-09-07,NOR
 110805,Finn,Dag Jagge,U,1936-05-04,NOR
@@ -11122,7 +11122,7 @@ player_id,name_first,name_last,hand,birthdate,country
 111135,Greg,Perkins,R,,AUS
 111136,Terry,Ryan,R,1942-04-27,RSA
 111137,K,Visscher,U,,UNK
-111138,D,Matthews,U,,UNK
+111138,Dennis,Matthews,U,,UNK
 111139,M,Cano,U,,ARG
 111140,J,Bart,U,,HUN
 111141,Luis,Rojas,U,,CRC
@@ -13308,7 +13308,7 @@ player_id,name_first,name_last,hand,birthdate,country
 113322,Guy P,Jackson,U,1921-09-20,IRL
 113323,Douglas G,Snart,U,,GBR
 113324,H Clive,Bernstein,U,,GBR
-113325,Roland E,Carter,U,,GBR
+113325,Roland E,Carter,U,1920-01-01,GBR
 113326,Francis J,Wallis,U,,GBR
 113327,Tim R,Miles,U,,GBR
 113328,Jimmy,Jones,U,1912-07-10,GBR
@@ -15946,7 +15946,7 @@ player_id,name_first,name_last,hand,birthdate,country
 115960,Sc,Whipple,U,,USA
 115961,Tm,Phetteplace,U,,USA
 115962,Frank R,Tucker,U,,USA
-115963,James Ford Coleman,Huntington,U,,USA
+115963,James Ford Coleman,Huntington,U,1867-01-01,USA
 115964,Hh,Whitman,U,,USA
 115965,Jimmy,Johnson,U,,CAN
 115966,Hm,Warner,U,,UNK
@@ -22313,7 +22313,7 @@ player_id,name_first,name_last,hand,birthdate,country
 122327,Rafael,Isakhanyan,U,1996-12-19,RUS
 122328,Jorj,Karapetyan,R,1993-09-07,RUS
 122329,Andrey,Goryachkov,U,1994-12-21,RUS
-122330,Alexander,Bublik,R,1997-06-17,RUS
+122330,Alexander,Bublik,R,1997-06-17,KAZ
 122331,Evgeny,Tikhonov,U,1993-09-12,RUS
 122332,Felipe,Rojas,R,1994-11-26,COL
 122333,Sebastian,Sanchez,R,1994-07-15,COL
@@ -24170,7 +24170,7 @@ player_id,name_first,name_last,hand,birthdate,country
 124184,Mike,Doering,R,1987-03-11,GER
 124185,Johann,Willems,L,1995-01-12,GER
 124186,Alexandre,Muller,U,1997-02-01,FRA
-124187,Reilly,Opelka,U,1997-08-28,USA
+124187,Reilly,Opelka,R,1997-08-28,USA
 124188,Hao,Zhang,U,1995-07-17,CHN
 124189,Adrian,Ortiz,U,1995-06-09,MEX
 124190,Jose Rafael,Godoy,U,1973-05-09,ARG
@@ -26593,7 +26593,7 @@ player_id,name_first,name_last,hand,birthdate,country
 126607,Alex,Hedman,U,1996-02-23,FIN
 126608,Aaro,Pollanen,R,1998-04-07,FIN
 126609,Patrik,Niklas Salminen,U,1997-03-05,FIN
-126610,Matteo,Berrettini,U,1996-04-12,ITA
+126610,Matteo,Berrettini,R,1996-04-12,ITA
 126611,Manuel,Righi,U,1994-01-01,ITA
 126612,Alexander,Cozbinov,R,1995-04-28,MDA
 126613,Bogdan,Borza,L,1997-04-05,ROU
@@ -44702,7 +44702,7 @@ player_id,name_first,name_last,hand,birthdate,country
 144716,Oleg,Prihodko,R,1997-10-03,UKR
 144717,Andrew,Barabashov,U,1993-02-02,UKR
 144718,Filip,Polic,R,1997-02-09,CRO
-144719,Jaume,Munar,U,1997-05-05,ESP
+144719,Jaume,Munar,R,1997-05-05,ESP
 144720,Jonathan,Gomont,U,1998-02-17,FRA
 144721,Denys,Gevel,U,1997-08-31,UKR
 144722,Vladyslav,Kramarov,U,1997-03-15,UKR
@@ -45254,7 +45254,7 @@ player_id,name_first,name_last,hand,birthdate,country
 200218,Mate,Valkusz,R,1998-08-13,HUN
 200219,John,Mcnally,U,1998-10-18,USA
 200220,Zeke,Clark,R,1998-07-19,USA
-200221,Alejandro,Davidovich Fokina,U,1999-06-05,ESP
+200221,Alejandro,Davidovich Fokina,R,1999-06-05,ESP
 200222,Nicholas S,Hu,R,1994-04-24,USA
 200223,Laurens,Verboven,U,1998-04-18,BEL
 200224,Aj,Catanzariti,U,1995-08-21,USA
@@ -45648,7 +45648,7 @@ player_id,name_first,name_last,hand,birthdate,country
 200612,Nikita,Potapov,U,1998-05-14,RUS
 200613,Denis,Pisarchuk,U,1998-02-10,RUS
 200614,Mislav,Bosnjak,U,1998-06-04,AUS
-200615,Alexei,Popyrin,U,1999-08-05,AUS
+200615,Alexei,Popyrin,R,1999-08-05,AUS
 200616,Shinnosuke,Hiramatsu,U,1996-10-11,JPN
 200617,Emmanuel,Luria,U,1998-07-29,ISR
 200618,Adam,Hornby,U,,BAR
@@ -51781,7 +51781,7 @@ player_id,name_first,name_last,hand,birthdate,country
 206745,Sergio,Capel Vicente,U,2001-04-14,ESP
 206746,Benjamin,Winter Lopez,U,1998-05-27,ESP
 206747,Alessandro,Peruzzi,R,1999-09-24,ITA
-206748,Giulio,Zeppieri,U,2001-12-07,ITA
+206748,Giulio,Zeppieri,L,2001-12-07,ITA
 206749,Niccolo,Catini,U,1997-12-09,ITA
 206750,Daniil,Glinka,U,2000-05-12,EST
 206751,Alexander Georg,Mandma,U,2002-01-01,EST
@@ -54066,3 +54066,341 @@ player_id,name_first,name_last,hand,birthdate,country
 209030,M,Cougani,U,,UNK
 209031,Joao,Lobo,U,1965-03-01,BRA
 209032,Pablo,Martin Adalia,U,,BRA
+209033,Omar,Morsy,L,,EGY
+209034,Andrija,Jevtic,U,,SRB
+209035,Mikel,Martinez,R,,ESP
+209036,Klim,Kozyrev,U,,RUS
+209037,Oscar,Traviesa Mola,U,,ESP
+209038,Linang,Xiao,U,,CHN
+209039,Frank,Tayebwa,R,,UGA
+209040,Sergio Eduardo,Molina Capin,U,,MEX
+209041,Bozo,Barun,R,,CRO
+209042,Mykhailo,Nosenko,U,,USA
+209043,Yuta,Kikuchi,U,,JPN
+209044,Hayato,Kudo,U,,JPN
+209045,Nikit,Reddy,U,,USA
+209046,Atharva,Sharma,R,,IND
+209047,Gareth,Ong,U,,SGP
+209048,Eduardo,Roldan,U,,MEX
+209049,Edward,Birungi,R,,UGA
+209050,Taewoo,Koo,U,,KOR
+209051,Riccardo,Perin,R,,ITA
+209052,Denislav,Prodanov,U,,BUL
+209053,Edward,Lewis,U,,USA
+209054,Kyler,Jirasook,U,,USA
+209055,Mason,Caldwell,U,,GUM
+209056,Takahiro,Kubo,R,,JPN
+209057,Camden,Camacho,U,,GUM
+209058,Bohua,Dong,U,,CHN
+209059,Vuk,Budic,R,,USA
+209060,Alexander,Bernard,U,,USA
+209061,Shota,Tange,U,,JPN
+209062,Kamen,Damov,U,,CAN
+209063,Wanseok,Kang,U,,KOR
+209064,Suk Hyun,Choo,U,,KOR
+209065,Youcef,Rihane,R,,ALG
+209066,Jiaji,Wang,U,,CHN
+209067,Hunter,Heck,U,,USA
+209068,Cash,Hanzlik,U,,USA
+209069,Marcus,Mcdaniel,U,,USA
+209070,Arthur,Cazaux,R,,FRA
+209071,Junhyun,Lee,U,,KOR
+209072,Jaewoo,Kim,U,,KOR
+209073,Maximiliano,Roman Mayorga,U,,ESP
+209074,Chenyu,Fang,U,,CHN
+209075,Daniil,Savelev,U,,RUS
+209076,Ethan Denzel,Sibanda,U,,ZIM
+209077,Andrew,Kunaka,R,,ZIM
+209078,Henrique,Fukushima,U,,BRA
+209079,Samir,Banerjee,U,,USA
+209080,Blaise,Bicknell,U,,USA
+209081,Alfredo,Casso,R,,MEX
+209082,Sung,Ha Yeon,U,,KOR
+209083,Donghwi,Shin,U,,KOR
+209084,Theo,Vandeweghe,R,,BEL
+209085,Marcio Eduardo,Silva,U,,BRA
+209086,Eduardo,Taiguara,R,,BRA
+209087,Leighton,Allen,U,,USA
+209088,Quinn,Vandecasteele,U,,USA
+209089,Robby,Shymansky,U,,USA
+209090,Tommaso,Carnevale Miino,R,,ITA
+209091,Bradley,Frye,U,,USA
+209092,Nicola,Cigna,U,,ITA
+209093,Juliusz,Bienkiewicz,U,,POL
+209094,Jing Long,Weng,R,,NED
+209095,Francisco,Rocha,U,,POR
+209096,Goran,Zivotic,U,,SRB
+209097,Mihailo,Popovic,U,,SRB
+209098,Hamad,Medjedovic,U,,SRB
+209099,Kristijan,Juhas,U,,SRB
+209100,Julian,Schubert,U,,AUT
+209101,Shokhrukh,Gayratov,U,,KAZ
+209102,Aizezi,Yusupuaili,R,,CHN
+209103,Haoyuan,Huang,U,,CHN
+209104,Benjamin Denis,Alarcon,U,,ARG
+209105,Lucas,Luini,L,,ARG
+209106,Martin,Estevarena,U,,ARG
+209107,Mateo,Vereau Melendez,U,,PER
+209108,Gianluca,Ballotta,U,,PER
+209109,Nicolas Agustin,Lema,R,,ARG
+209110,Agustin Maria,Gascia,U,,ARG
+209111,Andre,Baltazar,R,,PER
+209112,Rodrigo Nicolas,Montes De Oca Murillo,U,,PER
+209113,Gabriel,Diallo,U,2001-09-24,CAN
+209114,Han Chih,Lin,U,,TPE
+209115,Oliver,Okonkwo,U,,GBR
+209116,Gerard,Planelles Ripoll,U,,ESP
+209117,Marco,Furlanetto,U,,ITA
+209118,Niklas,Waldner,U,,AUT
+209119,Aissa,Benchakroun,U,,MAR
+209120,Yassine,Dlimi,U,,MAR
+209121,Sebastian,Pjontek,R,,SVK
+209122,Uladzislau,Zhuk,U,,BLR
+209123,Erick,Sanchez,U,,MEX
+209124,Blu,Baker,R,,GBR
+209125,Gaston,Erhardt,U,,ARG
+209126,Takeshi,Taco,U,,PER
+209127,Credit,Chaiyarin,R,,THA
+209128,Diego Augusto,Barreto Sanchez,U,,ESP
+209129,Benedict,Kurz,U,,GER
+209130,Benedikt,Emesz,R,,AUT
+209131,Eliakim,Coulibaly,L,,CIV
+209132,Deji,Thomas Smith,U,,GBR
+209133,David,Chelidze,U,,GEO
+209134,Francisco,Erramuspe,U,,URU
+209135,Justin,Bloss,U,,USA
+209136,Langford,Hills,R,,USA
+209137,Noppadol,Noikor,U,,THA
+209138,Tuur,Heuvinck,U,,BEL
+209139,Stefan,Spasojevic,R,,SRB
+209140,Millen,Hurrion,U,,GBR
+209141,Zakai,Stone,R,,USA
+209142,Sebastian,Gima,U,,ROU
+209143,Matthew,Mendez,U,,USA
+209144,Hayato,Kudo,U,1998-09-19,JPN
+209145,Pablo,Riva,U,2002-07-29,ESP
+209146,Mateo,Vereau,U,2001-01-04,PER
+209147,Vilius,Gaubas,U,2004-12-29,LTU
+209148,Aleksandar,Temov,U,2002-12-10,BUL
+209149,Riccardo,Perin,U,2000-01-16,ITA
+209150,Nicola,Cigna,U,2001-03-27,ITA
+209151,Alessio,Delfino,U,1996-06-23,ITA
+209152,Daniel,Khin,U,,HUN
+209153,Laurent,Baese,U,2002-02-18,GER
+209154,Connor,Bruce,U,2001-09-27,USA
+209155,Hayato,Kawashima,U,1999-01-06,JPN
+209156,Marcus,Mcdaniel,U,2002-05-13,USA
+209157,Muhammad Syabil,Md Shaharudin,U,2001-07-19,MAS
+209158,Nikolay,Nedelchev,U,2003-07-05,BUL
+209159,Tim,Soderman,U,,SWE
+209160,Kevin,Suvi,U,2001-04-03,EST
+209161,Milledge,Cossu,U,,USA
+209162,Diego,Bustamante,U,1999-01-10,MEX
+209163,Emile,Hudd,R,,GBR
+209164,Lorenzo,Rottoli,U,,ITA
+209165,Pietro Orlando,Fellin,R,,ITA
+209166,Calvin,Mueller,U,,GER
+209167,Olle,Wallin,U,,SWE
+209168,Stefan,Kabasaj,R,,SRB
+209169,Sandro,Szic,R,,POL
+209170,Eduardo,Nunez Del Prado Flores,U,,BOL
+209171,Thantub,Suksumrarn,R,,THA
+209172,Diego,Mogrovejo,U,,ECU
+209173,Ricardo,Alban,U,,ECU
+209174,Ethan,Leon,U,,USA
+209175,Giuliano Franco,Zambrano Poggi,U,,ECU
+209176,Angel,Diaz Jalil,R,,ECU
+209177,Tommaso,Vescovi,U,1999-05-07,ITA
+209178,Gaspar,Zimbrek Turkovic,U,2000-10-14,CRO
+209179,Stewart,Block,U,,CAN
+209180,Alexander,Zederbauer,U,2001-10-21,ECU
+209181,Tim,Heinonen,U,1999-09-13,SWE
+209182,Toby Alex,Kodat,R,,USA
+209183,Luigi,Castelletti,U,,ITA
+209184,Tristan,Reiff,U,,GER
+209185,Alessandro,Pecci,U,,ITA
+209186,Filip,Stipic,U,,SRB
+209187,Bill,Duo,U,,USA
+209188,Ari,Fahresi,U,,INA
+209189,Andres,Chavez,U,,BOL
+209190,Mykhaylo,Muravyov,U,,UKR
+209191,Oleksandr,Ovcharenko,U,,UKR
+209192,Nikolay,Sysoev,U,,RUS
+209193,Da Niel,Kotze,U,,RSA
+209194,David,Stevenson,U,1999-01-01,GBR
+209195,Marshall,Sullivan,U,1996-02-24,USA
+209196,Maximilian,Sprenger,U,2001-09-19,GER
+209197,Bartlomiej,Kowalski,U,,POL
+209198,Gian Luca,Tanner,U,,SUI
+209199,Ilias,Zimmermann,U,,SUI
+209200,Joel,Kuster,U,,SUI
+209201,Juan,Sengariz Carral,U,,ESP
+209202,Maurus,Malgiaritta,U,,SUI
+209203,Evgeny,Philippov,R,,RUS
+209204,Iiro,Vasa,U,,FIN
+209205,Oskar,Antinheimo,U,,FIN
+209206,Antonio,Caruso,U,,ITA
+209207,Janos,Fekete,U,,SVK
+209208,Kristof,Minarik,U,,SVK
+209209,Filip,Misolic,U,,AUT
+209210,Ioannis,Stamoulos,R,,GRE
+209211,Jan,Wajdemajer,U,,POL
+209212,Marcel,Politowicz,U,,POL
+209213,Kacper,Gorecki,U,,POL
+209214,Kabir,Gupta,R,,IND
+209215,Nicolas,Demeroutis,U,,BEL
+209216,Olivier,Rojas,U,,BEL
+209217,Oleksandr,Kokkin,R,,UKR
+209218,Demian,Hulyanich,U,,UKR
+209219,Timur,Mukhtarulin,R,,UKR
+209220,Nathan,Han,U,,USA
+209221,Jiaxi,Ma,U,,CHN
+209222,Lucas,Obeid,U,,BRA
+209223,Aliaksandr,Sasnouski,U,,BLR
+209224,Lucas,Britez Risso,U,,PAR
+209225,Martin Antonio,Vergara Del Puerto,U,,PAR
+209226,Adolfo Daniel,Vallejo,U,,PAR
+209227,Aaron,Cohen,U,2002-08-21,ISR
+209228,Tsimafei,Basalyha,U,2000-11-02,BLR
+209229,Rail,Ibragimov,U,2001-11-11,RUS
+209230,Otto,Leikola,U,2003-07-17,FIN
+209231,Aleksandr,Myagkov,U,2002-05-09,RUS
+209232,Quin,Verstegen,U,2000-12-28,NED
+209233,Pietro,Marino,R,,ITA
+209234,Axel,Garcian,U,,FRA
+209235,Diego,Menendez Vina,U,,ESP
+209236,Gabor,Serak,U,,HUN
+209237,Balint,Balogh,U,,HUN
+209238,Sebastian,Dominguez,U,2002-06-22,GUA
+209239,Daniil,Nabatchikov,U,,RUS
+209240,Gunjan,Jadhav,U,,IND
+209241,Leonardo,Catani,U,,ITA
+209242,Ilarion,Danilchenko,U,,RUS
+209243,Mark,Peneff,R,,USA
+209244,Valentin,Ivanov,U,,BUL
+209245,Giulio,Graziotti,U,,ITA
+209246,Alan,Magadan,U,,MEX
+209247,Axel,Garcian,U,2002-06-07,FRA
+209248,Amr,Asrawy,U,,EGY
+209249,Lilian,Breut,U,,FRA
+209250,Melvin,Manuel,U,,FRA
+209251,Stefan,Popovic,U,,SRB
+209252,Mihailo,Radosavljevic,U,,SRB
+209253,Andrea,Fiorentini,U,,ITA
+209254,Valerio,Aboian,U,,ARG
+209255,Vladan,Tadic,U,2001-01-11,BIH
+209256,Gabriela,Felline,U,,ITA
+209257,Aly,Elhamshary,U,1998-03-24,EGY
+209258,Alexandre,Reco,U,,FRA
+209259,Arthur,Fery,R,,GBR
+209260,Luciano,Darderi,U,,ITA
+209261,Matteo,Gigante,U,,ITA
+209262,Tristan,Schoolkate,R,,AUS
+209263,Matteo,Gigante,U,2002-01-04,ITA
+209264,Pietro,Fellin,U,,ITA
+209265,Nathan,Chavez,U,1995-06-02,USA
+209266,Adarsh Naga,Tippabhatla,U,2002-01-22,USA
+209267,Vesa,Ahti,U,1999-05-31,FIN
+209268,Ville,Perkkola,U,1998-09-09,FIN
+209269,Ethan,Silva,U,,USA
+209270,Kevin,Chahoud,R,,SWE
+209271,Eric Jr,Olivarez,R,,PHI
+209272,Federico,Luzzo,U,,ITA
+209273,Romain,Gales,U,,FRA
+209274,Carl Emil,Overbeck,U,,DEN
+209275,Antonio,Mazzeo,U,,ITA
+209276,Ignacio,Vinas,U,,ARG
+209277,Gleb,Baklanov,U,,UKR
+209278,Alec,Beckley,U,,RSA
+209279,Terence,Atmane,L,,FRA
+209280,Devin,Badenhorst,U,,RSA
+209281,Dylan,Salton,U,,RSA
+209282,Ian Luca,Cervantes Tomas,U,,ESP
+209283,Mans,Dahlberg,R,,SWE
+209284,Elmer,Moller,R,,DEN
+209285,Ying,Hou,U,,GBR
+209286,Togan,Makzume,U,,TUR
+209287,Ricardo,Brancal,U,,POR
+209288,Chrisjan,Van Wyk,R,,RSA
+209289,Jonathan Zuriel,Gonzalez Gonzalez,R,,MEX
+209290,Carlos Alonso,Gallardo Olivares,U,,CHI
+209291,Ivan Rodrigo,Gonzalez Huerta,U,,CHI
+209292,Caio,Gruber,U,,BRA
+209293,Maksym,Khalus,R,,UKR
+209294,Diego,Duran,U,,ESA
+209295,Donald,Hall,U,,USA
+209296,Alejandro,Licea,R,,ESA
+209297,Tennyson,Whiting,R,,USA
+209298,Jason,Janis,L,,GER
+209299,Sebastian,Defilippis,U,,CHI
+209300,Noam,Okala,U,,FRA
+209301,Kaan,Cepel,R,,TUR
+209302,Peter,Fajta,U,,HUN
+209303,Ben,Goldberg,U,,USA
+209304,Henry,Barrett,L,,USA
+209305,Yu Lun,Xie,U,2000-02-06,CHN
+209306,Iacopo,Sada,U,,ITA
+209307,Hans Peter,Kaufmann,U,,AUT
+209308,Abayomi Oluseyi,Philips,U,,NGR
+209309,Tushar,Madan,R,,IND
+209310,Christian,Saidi Otupio,U,,COD
+209311,Godgift,Timibra,U,,NGR
+209312,Wilson Oswalele,Igbinovia,R,,NGR
+209313,Taylor,Foote,U,,USA
+209314,Jan,Kupcic,U,,SLO
+209315,Simeon,Terziev,L,,BUL
+209316,Anthony,Genov,U,,BUL
+209317,Vasil,Dimitrov,U,,BUL
+209318,Petr,Nesterov,R,,BUL
+209319,Matheo,Fabre,U,,FRA
+209320,Lucas,Amorim De Lima,U,,BRA
+209321,Lars,Johann,R,,GER
+209322,Martin,Krumich,U,,CZE
+209323,Jonas,Maier,U,,GER
+209324,Veselin,Kiselkov,U,2002-05-19,BUL
+209325,Tauheed,Browning,U,,USA
+209326,Murphy,Cassone,R,,USA
+209327,Rashed,Nawaf,R,,QAT
+209328,Martin,Maldonado,U,,ECU
+209329,Marco,Mania,U,,ITA
+209330,Bautista,Vilicich,U,,ARG
+209331,Jarmo,Perez Wienese,U,,ESP
+209332,Gonzalo Ariel,Karakachian,U,2000-12-03,ARG
+209333,Mariano,Silberstein,U,2000-04-30,ARG
+209334,Micah,Braswell,U,,USA
+209335,Matthis,Ross,R,,GBR
+209336,Leonardo,Lopez Linquet,U,,ARG
+209337,Luca,Castagnola,U,,ITA
+209338,Daniel,Siniakov,U,,CZE
+209339,Oskar,Irdoja,U,,EST
+209340,Pablo,Alemany,U,,ESP
+209341,Matthew,Mosejczuk,R,,USA
+209342,Miguel,Perez Pena,U,,ESP
+209343,Gabriele,Felline,U,,ITA
+209344,Wally,Thayne,U,2000-12-29,USA
+209345,Nacho,Morant Martin,U,2002-10-11,ESP
+209346,Stijn,Pel,R,,NED
+209347,Bruno,Nhavene,R,,MOZ
+209348,Stylianos,Poutis,U,,GRE
+209349,Juan Martin,Fumeaux,U,2002-03-13,URU
+209350,Emiliano,Troche,U,2001-04-07,URU
+209351,Pablo,Jimenez Martinez,U,2000-08-23,ESP
+209352,Stefan,Loncar,U,,NED
+209353,Stefan,Loncar,U,,TUR
+209354,Ioannis,Xilas,U,,GRE
+209355,Timo,Legout,R,,FRA
+209356,Ricardo,Reyna,U,,MEX
+209357,Manuel,Sos Tirado,U,2000-06-08,ESP
+209358,Evin,Mcdonald,U,,USA
+209359,John,Carlin,U,,USA
+209360,Samir,Hamza Reguig,U,,ALG
+209361,Yashdeep Singh,Duggal,R,,IND
+209362,Aristotelis,Thanos,U,,GRE
+209363,Cruz,Thayne,U,1998-07-17,USA
+209364,Peerapat,Dedthonglang,U,,THA
+209365,Christos,Avraam,L,,CYP
+209366,Joe,Herin,R,,FRA
+209367,Geronimo,Marcolini,U,,ARG
+209368,Juan Martin,Fumeaux Buenaventura,U,,URU
+209369,Vadim,Kontseba,U,2000-03-31,UKR
+209370,Eshan,Talluri,U,2000-11-11,USA
