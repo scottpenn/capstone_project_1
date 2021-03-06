@@ -1,5 +1,6 @@
 .DS_Store
 Resources/
+Resources/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
